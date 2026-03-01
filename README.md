@@ -20,7 +20,7 @@ BookHaven Book Management System is a Windows Forms–based desktop application 
 
 - **Order Management** - End-to-end order tracking for in-store pickup and delivery, with flexible order updates and status management.
 
-- **Supplier Management** - Supplier lifecycle management, low-stock monitoring, and stock replenishment coordination with publishers and distributors.
+- **Supplier Management** - Supplier management, low-stock monitoring, and stock replenishment.
 
 - **Admin Dashboard** - High-level operational overview covering sales performance, inventory health, customer activity, and staff usage metrics.
 
