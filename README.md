@@ -6,7 +6,7 @@ A centralized desktop solution that streamlines bookstore operations by integrat
 
 ## Overview
 
-BookHaven Book Management System is a Windows Forms–based desktop application built to optimize end-to-end bookstore operations. It enables staff to efficiently manage books, customers, sales, suppliers, and orders while giving administrators real-time visibility into business performance. The system reduces manual overhead, improves data accuracy, and supports informed decision-making through structured workflows and actionable insights.
+**BookHaven Book Management System** is a Windows Forms–based desktop application built to optimize end-to-end bookstore operations. It enables staff to efficiently manage books, customers, sales, suppliers, and orders while giving administrators real-time visibility into business performance. The system reduces manual overhead, improves data accuracy, and supports informed decision-making through structured workflows and actionable insights.
 
 ## Key Features
 
