@@ -10,21 +10,21 @@ BookHaven Book Management System is a Windows Forms–based desktop application 
 
 ## Key Features
 
-- Role-Based User Authentication — Secure login with differentiated access levels for Admins and Sales Clerks, ensuring governance and operational control.
+- **Role-Based User Authentication** - Secure login with differentiated access levels for Admins and Sales Clerks, ensuring governance and operational control.
 
-- Book Inventory Management — Full CRUD operations for books, including title, author, genre, ISBN, pricing, and stock levels.
+- **Book Inventory Management** - Full CRUD operations for books, including title, author, genre, ISBN, pricing, and stock levels.
 
-- Customer Management — Centralized customer profiles with purchase history tracking to enhance service quality and retention.
+- **Customer Management** - Centralized customer profiles with purchase history tracking to enhance service quality and retention.
 
-- Sales & POS Module — Fast transaction processing with automated total calculation, discount handling, receipt generation, and real-time inventory updates.
+- **Sales & POS Module** - Fast transaction processing with automated total calculation, discount handling, receipt generation, and real-time inventory updates.
 
-- Order Management — End-to-end order tracking for in-store pickup and delivery, with flexible order updates and status management.
+- **Order Management** - End-to-end order tracking for in-store pickup and delivery, with flexible order updates and status management.
 
-- Supplier Management — Supplier lifecycle management, low-stock monitoring, and stock replenishment coordination with publishers and distributors.
+- **Supplier Management** - Supplier lifecycle management, low-stock monitoring, and stock replenishment coordination with publishers and distributors.
 
-- Admin Dashboard — High-level operational overview covering sales performance, inventory health, customer activity, and staff usage metrics.
+- **Admin Dashboard** - High-level operational overview covering sales performance, inventory health, customer activity, and staff usage metrics.
 
-- Reporting & Analytics — Daily, weekly, and monthly sales reports, best-selling book insights, and inventory status summaries.
+- **Reporting & Analytics** - Daily, weekly, and monthly sales reports, best-selling book insights, and inventory status summaries.
 
 ## Tech Stack
 
